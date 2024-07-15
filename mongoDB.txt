@@ -1,0 +1,5 @@
+H6JBoGQd0l5Pd5s4
+
+mehulsinha2001
+
+mongodb+srv://mehulsinha2001:<password>@backenddb.ihi7keg.mongodb.net/?retryWrites=true&w=majority&appName=BackendDB
