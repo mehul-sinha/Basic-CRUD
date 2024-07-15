@@ -24,7 +24,7 @@ app.use("/api/products", productRoute);
 
 mongoose
   .connect(
-    "mongodb+srv://mehulsinha2001:H6JBoGQd0l5Pd5s4@backenddb.ihi7keg.mongodb.net/Node-API?retryWrites=true&w=majority&appName=BackendDB"
+    "insert valid connection string"
   )
   .then(() => {
     console.log("Connected to the database");
